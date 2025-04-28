@@ -1,0 +1,10 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.example</groupId>
+    <artifactId>2048-game</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <properties>
+        <sonar.language>js</sonar.language>
+    </properties>
+</project>
